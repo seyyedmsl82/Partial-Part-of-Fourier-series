@@ -1,0 +1,1 @@
+# Partial-Part-of-Fourier-series
